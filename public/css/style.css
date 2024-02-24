@@ -1,0 +1,53 @@
+
+
+.main {
+    height: 100vh;
+}
+
+.sidebar {
+    color: #fff;
+    background: #000;
+}
+
+.sidebar a {
+    color: #fff;
+    display: block;
+    padding: 25px;
+    text-decoration: none;
+}
+
+.sidebar a i {
+    margin-right: 25px;
+    font-size: 20px;
+}
+.sidebar a:hover {
+    background: rgb(73, 73, 73);
+}
+
+.active {
+    background: rgb(63, 63, 63);
+    border-left: solid rgb(102, 181, 212) 5px;
+}
+
+.card-data {
+    border-radius: 10px;
+    padding: 20px 50px;
+    background-color: rgb(255, 255, 255);
+}
+
+.card-data a {
+    text-decoration: none;
+    color: #000;
+}
+
+.card-data i {
+    font-size: 80px;
+}
+
+.card-desk {
+    font-size: 30px;
+}
+
+.card-count {
+    font-size: 30px;
+}
